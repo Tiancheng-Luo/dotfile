@@ -210,6 +210,7 @@
         <entry encoding="base64">JzwsJz56ag==</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoAction</entry>
+        <entry>actionalias</entry>
         <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
