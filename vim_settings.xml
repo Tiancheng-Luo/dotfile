@@ -38,12 +38,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558487916042">
-        <mark key="j" line="16" column="0" />
-        <mark key="[" line="144" column="8" />
-        <mark key="]" line="144" column="7" />
-        <mark key="." line="144" column="7" />
-        <mark key="^" line="144" column="7" />
+      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558489311905">
+        <mark key="j" line="17" column="0" />
+        <mark key="[" line="144" column="35" />
+        <mark key="]" line="144" column="33" />
+        <mark key="^" line="144" column="33" />
+        <mark key="." line="144" column="33" />
       </file>
       <file name="D:/cmder/ConEmu.xml" timestamp="1558110380963">
         <mark key="'" line="831" column="27" />
@@ -135,22 +135,22 @@
         <text encoding="base64">MTYwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDbGlwYm9hcmRBbGxMaW5lcwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhcmJvaHlkcmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBDbGlwYm9hcmRBbGxMaW5lcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhcmJvaHlkcmF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAwCjEwMQoxMDIKMTAzCjEwNAoxMDUKMTA2CjEwNwoxMDgKMTA5CjExMAoxMTEKMTEyCjExMwoxMTQKMTE1CjExNgoxMTcKMTE4CjExOQoxMjAKMTIxCjEyMgoxMjMKMTI0CjEyNQoxMjYKMTI3CjEzNwo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTAwCjEwMQoxMDIKMTAzCjEwNAoxMDUKMTA2CjEwNwoxMDgKMTA5CjExMAoxMTEKMTEyCjExMwoxMTQKMTE1CjExNgoxMTcKMTE4CjExOQoxMjAKMTIxCjEyMgoxMjMKMTI0CjEyNQoxMjYKMTI3CjEzNwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -165,7 +165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action HippieBackwardCompletion</text>
       </register>
     </registers>
     <search>
@@ -198,10 +198,10 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
         <entry>action GotoAction</entry>
-        <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
         <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action HippieBackwardCompletion</entry>
       </history-cmd>
       <history-expr />
       <history-input />

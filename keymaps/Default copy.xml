@@ -1,6 +1,11 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="EditorMoveUpAndScroll">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="FileChooser.NewFolder">
@@ -15,7 +20,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
-  <action id="VimMotionDown">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
 </keymap>
