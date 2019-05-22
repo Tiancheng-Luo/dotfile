@@ -38,11 +38,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558486554552">
-        <mark key="j" line="15" column="0" />
-        <mark key="[" line="142" column="35" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558487916042">
+        <mark key="j" line="16" column="0" />
+        <mark key="[" line="144" column="8" />
+        <mark key="]" line="144" column="7" />
+        <mark key="." line="144" column="7" />
+        <mark key="^" line="144" column="7" />
       </file>
       <file name="D:/cmder/ConEmu.xml" timestamp="1558110380963">
         <mark key="'" line="831" column="27" />
@@ -125,7 +126,7 @@
         <text encoding="base64">MTYwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>calories</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwMVw+</text>
@@ -164,7 +165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -198,9 +199,9 @@
         <entry>actionlist</entry>
         <entry>action GotoAction</entry>
         <entry>action HippieBackwardCompletion</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action HippieCompletion</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -215,10 +216,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">

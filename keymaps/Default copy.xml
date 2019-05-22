@@ -1,23 +1,21 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="HippieBackwardCompletion">
-    <keyboard-shortcut first-keystroke="shift alt slash" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="HippieCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="ParameterInfo" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="VimMotionDown">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
 </keymap>
