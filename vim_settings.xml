@@ -38,12 +38,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558492819750">
+      <file name="E:/Workspace/Java/effective-java-3e-source-code/src/effectivejava/chapter2/item2/builder/NutritionFacts.java" timestamp="1558512322415">
         <mark key="j" line="19" column="0" />
-        <mark key="[" line="141" column="5" />
-        <mark key="]" line="141" column="32" />
-        <mark key="^" line="146" column="30" />
-        <mark key="." line="141" column="5" />
+        <mark key="[" line="127" column="32" />
+        <mark key="]" line="127" column="31" />
+        <mark key="^" line="127" column="31" />
+        <mark key="." line="127" column="31" />
       </file>
       <file name="D:/cmder/ConEmu.xml" timestamp="1558110380963">
         <mark key="'" line="831" column="27" />
@@ -171,7 +171,7 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgRnVuIGJ1aWxkKCkgewogICAgICAgICAgICByZXR1cm4gbmV3IEZ1bihidWlsZGVyOiB0aGlzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuRXhwYW5kU2VsZWN0aW9u</text>
       </register>
     </registers>
     <search>
@@ -193,9 +193,6 @@
         <entry encoding="base64">XDwwMVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>make</entry>
-        <entry>we</entry>
-        <entry>set multiple-cursors?</entry>
         <entry>set multiple-cursors</entry>
         <entry>Term</entry>
         <entry>TERM</entry>
@@ -208,10 +205,14 @@
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz56aw==</entry>
         <entry encoding="base64">JzwsJz56ag==</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoAction</entry>
         <entry>actionalias</entry>
         <entry>actionlist</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GuiDesigner.ExpandSelection</entry>
+        <entry>action ExpandSelection</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz4nPCwnPmFjdGlvbiBHdWlEZXNpZ25lci5FeHBhbmRTZWxlY3Rpb24=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuRXhwYW5kU2VsZWN0aW9u</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -241,7 +242,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
