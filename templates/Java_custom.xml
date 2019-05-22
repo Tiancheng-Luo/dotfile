@@ -1,0 +1,10 @@
+<templateSet group="Java_custom">
+  <template name="buildp" value="public class $CLASS_TYPE${&#10;    private final $ELEMENT_TYPE$ $VAR1$;&#10;    &#10;    public static class Builder {&#10;        private final $ELEMENT_TYPE$ $VAR1$;&#10;&#10;        public Builder() {&#10;        }&#10;&#10;        public Builder $VAR1$($ELEMENT_TYPE$ val) {&#10;            $VAR1$= val;&#10;            return this;&#10;        }&#10;        &#10;        public $CLASS_TYPE$ build() {&#10;            return new $CLASS_TYPE$(builder: this);&#10;        }&#10;&#10;    }&#10;    private $CLASS_TYPE$(Builder builder) {&#10;        $VAR1$= builder.$VAR1$;&#10;    }&#10;}&#10;" description="Builder Pattern" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELEMENT_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
