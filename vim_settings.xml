@@ -165,7 +165,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -197,11 +197,11 @@
         <entry>action</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>actionlist</entry>
-        <entry>action GotoAction</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action HippieBackwardCompletion</entry>
         <entry>action HippieCompletion</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
